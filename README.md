@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @blaaau
-- 👀 I’m interested in anything
-- 🌱 I’m currently learning coding in python, java and c#
-- 💞️ I’m looking to collaborate on projects where i can learn something new
-- 📫 How to reach me: Discord: blaaau (tell me that you found me through GitHub) 
+i write code but im shit at it
+
+js c# python (html css)
 
 <!---
 blaaau/blaaau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
